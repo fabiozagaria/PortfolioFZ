@@ -27,7 +27,7 @@ export class ProjectsComponent {
       solution: 'Utilizzo avanzato di Flexbox, Grid e JavaScript puro.',
       technologies: ['HTML', 'CSS', 'JS'],
       learning: 'Gestione dello stato in Vanilla JS, layout complessi, organizzazione del CSS.',
-      status: 'Esercizio didattico',
+      status: 'Completato',
       liveLink: 'https://fakeflix-lemon-six.vercel.app/',
       githubLink: 'https://github.com/JavaMetalCoder/Fakeflix'
     },
@@ -44,12 +44,24 @@ export class ProjectsComponent {
       githubLink: 'https://github.com/JavaMetalCoder/LABFORWEB'
     },
     {
+      title: 'LabTV',
+      icon: 'fas fa-tv',
+      description: 'Progetto LabForWeb dedicato alla creazione di una piattaforma web per contenuti video e intrattenimento.',
+      problem: 'Realizzare un\'interfaccia chiara e coinvolgente per presentare contenuti multimediali.',
+      solution: 'Sviluppo di una web app organizzata per sezioni, con attenzione alla navigazione e alla resa responsive.',
+      technologies: ['Angular', 'Bootstrap'],
+      learning: 'Strutturazione di una UI multimediale, gestione dei contenuti e consolidamento delle basi frontend.',
+      status: 'In sviluppo',
+      liveLink: '',
+      githubLink: 'https://github.com/fabiozagaria/LabTV'
+    },
+    {
       title: 'Gestionale Spese',
       icon: 'fas fa-wallet',
       description: 'Applicazione per gestire e monitorare le spese in modo semplice e ordinato.',
       problem: 'Tenere sotto controllo entrate, uscite e movimenti economici senza perdere il quadro generale.',
       solution: 'Realizzazione di un gestionale dedicato alla registrazione e consultazione delle spese.',
-      technologies: ['Angular', 'Bootstrap'],
+      technologies: ['Angular', 'Bootstrap', 'Spring Boot', 'MySQL'],
       learning: 'Organizzazione dei dati, gestione delle operazioni CRUD e logica applicativa orientata all\'utente.',
       status: 'In sviluppo',
       liveLink: 'https://gestionale-spese.vercel.app/',
