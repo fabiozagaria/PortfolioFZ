@@ -52,7 +52,7 @@ export class ProjectsComponent {
       technologies: ['Angular', 'Bootstrap'],
       learning: 'Strutturazione di una UI multimediale, gestione dei contenuti e consolidamento delle basi frontend.',
       status: 'In sviluppo',
-      liveLink: '',
+      liveLink: 'https://lab-tv.vercel.app/',
       githubLink: 'https://github.com/fabiozagaria/LabTV'
     },
     {
